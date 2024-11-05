@@ -1,0 +1,2 @@
+The code is taken partially or at full from:
+https://github.com/HuXn-WebDev/HTML-CSS-JavaScript-100-Projects
